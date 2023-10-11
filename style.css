@@ -10,7 +10,7 @@
 
 
 .background{
-    background-image: url(img/modelo\ herllon.png);
+    background-image: url(img/balck.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
@@ -79,7 +79,7 @@ header{
     
 }
 .Meio p{ 
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: rgba(249, 244, 80, 0.832);
 }
 
@@ -138,7 +138,7 @@ section h1{
 .cta{
     height: 60vh;
     width: 100%;
-    background: url(img/modelo\ wr.png);
+    background: url(img/bluasas\ 3.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -208,7 +208,7 @@ section h1{
 
 .roupa img{
     width: 250px;
-    height: auto;
+    height: 290px;
 }
 
 .roupa{
